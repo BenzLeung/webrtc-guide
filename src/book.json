@@ -1,0 +1,21 @@
+{
+  "title" : "Web Audio API 小教程",
+  "author": "BenzLeung",
+  "description": "Web Audio API 入门教程",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-plus",
+    "github",
+    "3-ba"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/BenzLeung/webrtc-guide"
+    },
+    "3-ba": {
+      "token": "08e7568514d4ec603eb05778e56aef48"
+    }
+  }
+}
